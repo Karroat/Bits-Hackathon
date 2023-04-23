@@ -1,4 +1,4 @@
-# Bits-Hackathon Yeam Name Coding Knights
+# Bits-Hackathon Team Name Coding Knights
 Bots Hackathon on 22-23 April 2023
 
 
